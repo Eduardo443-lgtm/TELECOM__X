@@ -32,7 +32,7 @@ Dados importados de arquivo .json.
 
 - Insatisfação com serviços críticos – Problemas percebidos em OnlineSecurity e DeviceProtection.
 
-- Demografia – Jovens/adultos sem parceiros ou dependentes apresentam maior churn.
+- Demografia – Jovens/adultos sem parceiros ou dependentes apresentam maior churn. 
 
 - Falta de Internet – Clientes sem serviço de internet têm risco maior de cancelamento.
 
