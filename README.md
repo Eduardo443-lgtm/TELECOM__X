@@ -41,8 +41,3 @@ Dados importados de arquivo .json.
 - Implementar estratégias segmentadas com base nos fatores críticos.
 
 - Monitorar trimestralmente a taxa de churn e ajustar ações com base em KPIs e feedback dos clientes.
-- Falta de Internet – Clientes sem serviço de internet têm risco maior de cancelamento.
-
-- Serviços contratados, mas não valorizados – DeviceProtection e TechSupport podem gerar churn devido à percepção de baixo benefício.
-
-- Custos elevados – Tarifas mensais ou diárias altas podem causar percepção negativa de custo-benefício.
