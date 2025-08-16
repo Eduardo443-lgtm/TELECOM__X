@@ -32,7 +32,61 @@ Dados importados de arquivo .json.
 
 - Insatisfação com serviços críticos – Problemas percebidos em OnlineSecurity e DeviceProtection.
 
-- Demografia – Jovens/adultos sem parceiros ou dependentes apresentam maior churn. 
+- Demografia – Jovens/adultos sem parceiros ou dependentes apresentam maior churn.
+
+<h2>🚀 Recomendações para Redução de evasões</h2>
+
+1. <h3>Fortalecer a Experiência nos Primeiros Meses (0–6 meses)</h3>
+
+- Criar um programa de onboarding com suporte dedicado.
+
+- Enviar check-ins periódicos (ex: quinzenais) para verificar a satisfação inicial.
+
+- Disponibilizar tutoriais rápidos e um FAQ interativo para orientar novos clientes.
+
+2. <h3>Incentivar Contratos de Longo Prazo</h3>
+
+- Conceder 15% de desconto em renovações anuais.
+
+- Oferecer 3 meses gratuitos em contratos bienais.
+
+- Enfatizar a economia ao longo do tempo para reduzir a adesão a contratos mensais.
+
+3. <h3>Aumentar o Valor Percebido dos Serviços</h3>
+
+- Criar pacotes como o bundle “Segurança Total” (OnlineSecurity + TechSupport + Backup) com desconto de 20%.
+
+- Realizar campanhas de educação do cliente, mostrando os benefícios dos serviços adicionais.
+
+4. <h3>Melhorar a Experiência de Pagamento</h3>
+
+- Auditar o processo de Electronic Check e resolver problemas de usabilidade.
+
+- Incentivar a migração para débito automático ou cartão com 5% de desconto.
+
+- Comunicar de forma clara a segurança e praticidade desses métodos.
+
+5. <h3>**Campanhas de Retenção Segmentadas**</h3>
+
+- Focar em jovens/adultos sem dependentes, novos clientes e usuários de fatura digital.
+
+- Enviar ofertas personalizadas antes do término do contrato.
+
+- Oferecer planos flexíveis para clientes em risco.
+
+6. <h3>Melhorar a Qualidade de Serviços Críticos</h3>
+
+- Realizar pesquisas de satisfação e auditorias em OnlineSecurity, DeviceProtection e TechSupport.
+
+- Reforçar a comunicação de valor desses serviços.
+
+7. <h3>Equilibrar Custo e Benefício</h3>
+
+- Avaliar clientes com altos MonthlyCharge/DailyCharge para identificar insatisfação.
+
+- Criar planos personalizados que equilibrem custo e valor entregue.
+
+- Demonstrar o ROI (retorno sobre o investimento) com dados claros.
 
 - Falta de Internet – Clientes sem serviço de internet têm risco maior de cancelamento.
 
